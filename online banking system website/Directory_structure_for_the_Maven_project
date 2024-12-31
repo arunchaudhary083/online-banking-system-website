@@ -1,0 +1,16 @@
+/banking-system
+├── src
+│   ├── main
+│   │   ├── java
+│   │   │   └── com
+│   │   │       └── onlinebanking
+│   │   │           └── BankingApplication.java
+│   │   └── resources
+│   │       └── templates
+│   │           ├── user-management.html
+│   │       └── static
+│   │           └── css
+│   │               └── style.css
+│   │           └── js
+│   │               └── validation.js
+├── pom.xml
