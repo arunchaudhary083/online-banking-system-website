@@ -61,7 +61,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-repository/online-banking-management-system.git
+git clone https://github.com/online-banking-system-website/online-banking-management-system.git
 cd online-banking-management-system
 Build the Project: Use Maven to build the project.
 
